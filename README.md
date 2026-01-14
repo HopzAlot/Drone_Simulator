@@ -37,7 +37,7 @@ The system is designed as a modular and object-oriented architecture where each 
 ---
 
 ## Technical Specifications
-* **Language**: Java
+* **Language**: Java, JSwing(GUI)
 * **Simulation Model**: Discrete-time steps ($\Delta t$)
 * **Physics Model**: Newton-Euler equations for 3D flight
 * **Output Formats**: CSV (telemetry) and TXT (performance summaries)
